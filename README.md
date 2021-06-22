@@ -1,2 +1,0 @@
-# samplecicd
-sample ci/cd
